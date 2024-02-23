@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45584097556",
+    "project_id": "study-app-2-793ae",
+    "storage_bucket": "study-app-2-793ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45584097556:android:67ef73cb924409ab0ce201",
+        "android_client_info": {
+          "package_name": "com.lohcy.study_app_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6zHjMmSSEqfaEbBC-JAYAaoURkXc_XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
