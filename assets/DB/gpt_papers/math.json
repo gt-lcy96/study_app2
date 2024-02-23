@@ -1,0 +1,124 @@
+{
+    "id": "ppr001",
+    "title": "Maths",
+    "image_url": "",
+    "Description": "Intermediate Maths Multiple Choice Questions (MCQ) to test your mathematical skills",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "What is the square root of 144?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "12"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "14"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "16"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "If the area of a circle is 78.5 square units, what is the radius? (Use π = 3.14)",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "5 units"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "10 units"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "15 units"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "20 units"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "What is 35% of 200?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "50"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "60"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "70"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "80"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "Solve for x: 2x + 3 = 11",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "5"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "6"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "A rectangle has a length of 12 units and a width of 5 units. What is the perimeter?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "24 units"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "34 units"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "44 units"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "54 units"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

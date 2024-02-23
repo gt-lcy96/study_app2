@@ -1,0 +1,124 @@
+{
+    "id": "ppr003",
+    "title": "Advanced Physics",
+    "image_url": "",
+    "Description": "Advanced physics Multiple Choice Questions (MCQ) to practice complex physics concepts and their applications",
+    "time_seconds": 1200,
+    "questions": [
+        {
+            "id": "ppr003q001",
+            "question": "What is the principle behind the operation of a transformer?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Electromagnetic induction"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Photoelectric effect"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Thermionic emission"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Quantum tunneling"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr003q002",
+            "question": "Which of the following particles is affected by a magnetic field?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Neutron"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Alpha particle"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Beta particle"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Proton"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q003",
+            "question": "What happens to the resistance of a conductor when its temperature increases?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Increases"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Decreases"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Stays the same"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "First decreases then increases"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr003q004",
+            "question": "In the context of wave mechanics, what does the term 'node' refer to?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A point of maximum amplitude"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A point of minimum amplitude"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A point of zero amplitude"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "The peak of a wave"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q005",
+            "question": "Which of the following is not a fundamental force in nature?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Gravitational force"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Electromagnetic force"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Strong nuclear force"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Frictional force"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

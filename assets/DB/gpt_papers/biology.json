@@ -1,0 +1,124 @@
+{
+    "id": "ppr002",
+    "title": "Biology",
+    "image_url": "",
+    "Description": "Intermediate Biology Multiple Choice Questions (MCQ) to test your knowledge of biology concepts",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "What is the basic unit of life?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Cell"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Organ"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Tissue"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Organism"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "Which molecule carries genetic information?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Protein"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Carbohydrate"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "DNA"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "RNA"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "Which process describes the movement of water across a semi-permeable membrane?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Osmosis"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Diffusion"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Active transport"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Endocytosis"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q004",
+            "question": "Photosynthesis primarily takes place in which part of the plant?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Stems"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Roots"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Leaves"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Flowers"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "Which structure is responsible for producing ATP in cells?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Golgi apparatus"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Nucleus"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Ribosome"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Mitochondrion"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}
