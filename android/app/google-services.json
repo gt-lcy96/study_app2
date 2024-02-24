@@ -12,7 +12,20 @@
           "package_name": "com.lohcy.study_app_2"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "45584097556-dbia1bk1956lki6518fsfsh5gtn9o9ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lohcy.study_app_2",
+            "certificate_hash": "6328f125a769de7aa41f41dcdd4faacfe2e2e35b"
+          }
+        },
+        {
+          "client_id": "45584097556-6r8fhtphans3mff3kg29p5taq3qdo96p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAb6zHjMmSSEqfaEbBC-JAYAaoURkXc_XE"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45584097556-6r8fhtphans3mff3kg29p5taq3qdo96p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "45584097556-514kvv6bm1g61km9mp18blkm3c3pp5vj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lohcy.studyApp2.RunnerTests"
+              }
+            }
+          ]
         }
       }
     }
