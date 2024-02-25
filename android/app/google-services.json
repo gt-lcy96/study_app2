@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "45584097556-5o5ps7cutad7op9qmol2uo1tdo32v9si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lohcy.study_app_2",
+            "certificate_hash": "264e6ec96c37642dbb5954d6004007f984dd3546"
+          }
+        },
+        {
           "client_id": "45584097556-dbia1bk1956lki6518fsfsh5gtn9o9ec.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
