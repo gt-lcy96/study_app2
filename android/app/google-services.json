@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "45584097556-7mci3jbnkv9tgodkd75go2uv3s3b4s55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lohcy.study_app_2",
+            "certificate_hash": "5637c1b14697049ef1101428fb7768d86d44782a"
+          }
+        },
+        {
           "client_id": "45584097556-dbia1bk1956lki6518fsfsh5gtn9o9ec.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
