@@ -1,16 +1,12 @@
-# study_app_2
+# study_app
 
-A new Flutter project.
+This is a Flutter tutorial app which ask a few question in Physics, Chemistry, Maths, and Biology field.
 
-## Getting Started
+Currently this app only support Android and IOS. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Contributing
+We appreciate contributions from the community. If you wish to contribute, feel free to fork the repository, make your changes, and create a pull request.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Support
+For any support-related queries, please open an issue in the repository or contact our support team at lohcy96@gmail.com.
